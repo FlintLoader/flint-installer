@@ -8,6 +8,7 @@ plugins {
 var baseVersion = "0.0"
 
 sourceCompatibility = 1.8
+group = 'net.flintloader'
 version = '${baseVersion}.0'
 archivesBaseName = "flint-installer"
 
